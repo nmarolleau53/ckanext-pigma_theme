@@ -168,6 +168,11 @@
     padding: 0 30px 30px;
 }
 
+.module .nav li {
+    width: 100%;
+    text-align: left;
+}
+
 #dataset-map {
     margin-bottom: 15px;
 }
@@ -180,3 +185,4 @@
     background-color: #0072bc;
     color: white;
 }
+
