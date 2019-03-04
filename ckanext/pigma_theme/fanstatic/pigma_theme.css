@@ -155,6 +155,10 @@
     background-color: #6e53b2;
 }
 
+#recherche .form_search {
+    background-color: none;
+}
+
 .wrapper::before {
     display: none;
 }
