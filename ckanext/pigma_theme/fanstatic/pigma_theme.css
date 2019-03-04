@@ -155,6 +155,10 @@
     background-color: #6e53b2;
 }
 
+.wrapper::before {
+    display: none;
+}
+
 .module-content {
     padding: 0 30px 30px;
 }
