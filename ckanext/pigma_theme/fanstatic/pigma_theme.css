@@ -155,7 +155,7 @@
     background-color: #6e53b2;
 }
 
-#recherche .form_search {
+#recherche .form_search, #recherche .form_search .field {
     background: none;
     margin: 0;
 }
